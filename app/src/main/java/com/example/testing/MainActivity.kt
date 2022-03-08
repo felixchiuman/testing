@@ -15,4 +15,7 @@ class MainActivity : AppCompatActivity() {
     fun methodFirman(){
 
     }
+    fun conflictFromMusnadil(){
+
+    }
 }
