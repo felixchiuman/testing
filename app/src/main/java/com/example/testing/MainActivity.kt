@@ -26,4 +26,10 @@ class MainActivity : AppCompatActivity() {
     fun qwerty(){
 
     }
+
+    fun conflictMethodFirman(){
+
+    }
+
+    
 }
