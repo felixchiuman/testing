@@ -22,4 +22,8 @@ class MainActivity : AppCompatActivity() {
     fun kucing1(){
 
     }
+
+    fun conflictMethodFirman(){
+
+    }
 }
