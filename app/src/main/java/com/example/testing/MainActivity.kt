@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun kucing(){
+    fun kucing1(){
 
     }
 }
