@@ -30,6 +30,9 @@ class MainActivity : AppCompatActivity() {
     fun conflictMethodFirman(){
 
     }
+    fun iniBakalConflict(){
+
+    }
 
     
 }
