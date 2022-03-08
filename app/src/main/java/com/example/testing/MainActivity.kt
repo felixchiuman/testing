@@ -33,6 +33,8 @@ class MainActivity : AppCompatActivity() {
     fun iniBakalConflict(){
 
     }
+    fun abcde(){
 
-    
+    }
+
 }
