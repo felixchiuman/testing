@@ -37,4 +37,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    fun openReq(){
+
+    }
 }
