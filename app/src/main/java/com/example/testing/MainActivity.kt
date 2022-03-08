@@ -18,4 +18,8 @@ class MainActivity : AppCompatActivity() {
     fun conflictFromMusnadil(){
 
     }
+
+    fun kucing(){
+
+    }
 }
