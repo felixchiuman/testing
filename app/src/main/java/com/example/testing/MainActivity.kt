@@ -11,4 +11,8 @@ class MainActivity : AppCompatActivity() {
         val name = "Felix"
         Log.d("AND-4","Pagi $name")
     }
+
+    fun methodFirman(){
+
+    }
 }
