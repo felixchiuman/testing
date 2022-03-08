@@ -30,6 +30,8 @@ class MainActivity : AppCompatActivity() {
     fun conflictMethodFirman(){
 
     }
+    fun abcde(){
 
+    }
     
 }
