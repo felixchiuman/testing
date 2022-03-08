@@ -12,5 +12,3 @@ class MainActivity : AppCompatActivity() {
         Log.d("AND-4","Pagi $name")
     }
 }
-
-//tes1223
