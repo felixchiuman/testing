@@ -47,4 +47,7 @@ class MainActivity : AppCompatActivity() {
     fun login(){
 
     }
+    fun branchDariMusnadil(){
+
+    }
 }
