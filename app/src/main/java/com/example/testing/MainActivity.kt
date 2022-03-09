@@ -47,4 +47,8 @@ class MainActivity : AppCompatActivity() {
     fun login(){
 
     }
+
+    fun branchDariFirman(){
+
+    }
 }
